@@ -66,6 +66,8 @@ Follow the format to add your project:
    https://github.com/ryankert01/voronoi-diagram-toolkit
 5. `lnfu <https://github.com/lnfu>`__ for
    `DEATH: Differential Expression Analysis Tool for High-throughput NGS <lnfu/README.rst>`__: https://github.com/lnfu/death
+6. `3829penguin <https://github.com/3829penguin>`__ for
+   `AgAMGPCG <3829penguin/README.rst>`__: https://github.com/3829penguin/AgAMGPCG
 
 .. note::
 
