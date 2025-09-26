@@ -1,18 +1,10 @@
-<<<<<<< HEAD
 PCG-CP: PCG Solver with Configurable Preconditioners
-=======
-Preconditioned Conjugate Gradient Method
->>>>>>> b9760b7 (Add PCG proposal)
 =========================================================
 
 Basic Information
 =================
 
-<<<<<<< HEAD
 **Repository:** `https://github.com/3829penguin/PCG-CP <https://github.com/3829penguin/PCG-CP>`_
-=======
-**Repository:** `https://github.com/3829penguin/PCG <https://github.com/3829penguin/PCG>`_
->>>>>>> b9760b7 (Add PCG proposal)
 
 Problem Statement
 =================
